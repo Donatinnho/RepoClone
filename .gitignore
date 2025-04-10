@@ -1,0 +1,5 @@
+# BLACKLIST
+teste.txt
+
+#Ignorando TODOS: *.js
+*.js
